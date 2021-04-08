@@ -1,0 +1,27 @@
+
+
+header
+{
+display: flex;
+justify-content: space-between;
+align-items: flex-end;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+    margin-bottom: 15px;
+
+}
+
+li a
+{
+    text-decoration: none;
+    color: black;
+}
