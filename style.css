@@ -1,4 +1,9 @@
 
+.container
+{
+    width:1200px ;
+    margin: auto;
+}
 
 header
 {
@@ -24,4 +29,32 @@ li a
 {
     text-decoration: none;
     color: black;
+}
+
+#banniere_image
+{
+height: 500px;
+width: 1200px;
+background: url('images/backgroung_image.jpg') no-repeat;
+background-size: contain;
+
+}
+
+#banniere_image h1
+{
+    color:white;
+    text-align: center;
+    margin-top: 180px;
+    
+}
+
+.logo_image
+{
+    height: 55px;
+    position: relative;
+    top: 175px;
+    left: 510px;
+
+    
+
 }
